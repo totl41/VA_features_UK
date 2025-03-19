@@ -1,6 +1,7 @@
 ﻿#language: ru
 
 @tree
+@IgnoreOnCIMainBuild
 
 Функционал: Создание нового Корпоративного органа управлениея
 
