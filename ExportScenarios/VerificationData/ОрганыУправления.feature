@@ -2,7 +2,6 @@
 
 @tree
 @ExportScenarios
-@IgnoreOnCIMainBuild
 
 Функционал: Проверочные сценарии Органы управления
 

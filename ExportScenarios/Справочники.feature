@@ -2,7 +2,6 @@
 
 @tree
 @ExportScenarios
-@IgnoreOnCIMainBuild
 
 Функционал: Экспортные сценарии для Справочников
 

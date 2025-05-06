@@ -2,7 +2,6 @@
 
 @tree
 @ExportScenarios
-@IgnoreOnCIMainBuild
 
 Функционал: Экспортные сценарии для общих Сервисов и Команд
 
